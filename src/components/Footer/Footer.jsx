@@ -7,7 +7,7 @@ const Footer = () => {
         <h4 className="font-bold text-xl mx-5">TaskHarbor</h4>
       </div>
       <div>
-        <p className="">&nbsp;&copy;Jatin Shakya</p>
+        <p className="">&nbsp;&copy;Jatin Jain</p>
       </div>
     </div>
   );
