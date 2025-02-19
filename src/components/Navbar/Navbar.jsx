@@ -1,7 +1,4 @@
 import React from "react";
-
-import { GiWhiteBook } from "react-icons/gi";
-import { PiAddressBookFill } from "react-icons/pi";
 import { Link, useNavigate } from "react-router-dom";
 import { useSelector, useDispatch } from "react-redux";
 import { authAction } from "../../Store";
